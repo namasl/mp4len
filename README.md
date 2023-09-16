@@ -12,7 +12,7 @@ To compile, simply run:
 make
 ````
 
-The resulting binary can be manually moved wherever required, such as `~/bin/` if only a single user will use `mp4len`, or `/usr/bin/` if all users need access.
+The resulting binary can be manually moved wherever required, such as `~/bin/` if only a single user will use `mp4len`, or `/usr/local/bin/` if all users need access.
 
 ## Usage
 
